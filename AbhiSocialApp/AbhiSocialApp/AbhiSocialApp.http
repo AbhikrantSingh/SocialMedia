@@ -1,0 +1,6 @@
+@AbhiSocialApp_HostAddress = http://localhost:5134
+
+GET {{AbhiSocialApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

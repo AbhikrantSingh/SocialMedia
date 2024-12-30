@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbhiSocialApp", "AbhiSocialApp\AbhiSocialApp.csproj", "{7482D75D-26F9-468E-B5D2-E61410F9651B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7482D75D-26F9-468E-B5D2-E61410F9651B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7482D75D-26F9-468E-B5D2-E61410F9651B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7482D75D-26F9-468E-B5D2-E61410F9651B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7482D75D-26F9-468E-B5D2-E61410F9651B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84539D96-4067-4619-98D7-FA7AD43EF625}
+	EndGlobalSection
+EndGlobal
